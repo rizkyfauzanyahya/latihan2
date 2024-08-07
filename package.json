@@ -1,0 +1,13 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ujian.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "tsc -w",
+    "dev" : "nodemon src/ujian.ts"
+  },
+  "author": "rizky",
+  "license": "ISC"
+}
